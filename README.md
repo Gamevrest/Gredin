@@ -1,4 +1,6 @@
-# NaughtyAttributes
+# Gredin
+
+Stolen and adapted for gamevrest
 [![Unity 2019.4+](https://img.shields.io/badge/unity-2019.4%2B-blue.svg)](https://unity3d.com/get-unity/download)
 [![openupm](https://img.shields.io/npm/v/com.dbrizov.naughtyattributes?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.dbrizov.naughtyattributes/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://github.com/dbrizov/NaughtyAttributes/blob/master/LICENSE)
@@ -24,7 +26,6 @@ openupm add com.dbrizov.naughtyattributes
 ```
 "com.dbrizov.naughtyattributes": "https://github.com/dbrizov/NaughtyAttributes.git#upm"
 ```
-3. You can also download it from the [Asset Store](https://assetstore.unity.com/packages/tools/utilities/naughtyattributes-129996)
 
 ## Documentation
 - [Documentation](https://dbrizov.github.io/na-docs/)
